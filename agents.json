@@ -1,32 +1,60 @@
 {
   "Jean Etienne": {
-    "Counties": [12011]
+    "Counties": [12011],
+    "Brokerage": "Premier Agent Network",
+    "Phone": "(954)-560-7448",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708705888805_Jean_Headshot_3.jpg&imageViewType=preview"
   },
   "Frank Duran": {
-    "Counties": [48029, 48325, 48019, 48259, 48091, 48187, 48493, 48013]
+    "Counties": [48029, 48325, 48019, 48259, 48091, 48187, 48493, 48013],
+    "Brokerage": "Epique Realty",
+    "Phone": "(210)-827-0276",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708653582331_IMG_4025.jpeg&imageViewType=preview"
   },
   "Idly Etienne": {
-    "Counties": [13121, 13135, 13067, 13113, 13117, 13057]
+    "Counties": [13121, 13135, 13067, 13113, 13117, 13057],
+    "Brokerage": "Exit Team Realty",
+    "Phone": "(404)-426-4999",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708544628694_IMG_2072.jpeg&imageViewType=preview"
   },
   "Deborah Halprin": {
-    "Counties": [12011, 12086, 12099]
+    "Counties": [12011, 12086, 12099],
+    "Brokerage": "Robert Slack LLC",
+    "Phone": "(727)-458-2857",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708469672630_1000000786.png&imageViewType=preview"
   },
   "Laura Halprin": {
-    "Counties": [12103, 12057, 12081, 12115, 12101]
+    "Counties": [12103, 12057, 12081, 12115, 12101],
+    "Brokerage": "HomeSmart",
+    "Phone": "(561)-271-7069",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708467694434_IMG_20221109_164727_525.jpg&imageViewType=preview"
   },
   "Taylor Dalton": {
-    "Counties": [12071]
+    "Counties": [12071],
+    "Brokerage": "NextHome South Pointe",
+    "Phone": "(407)-247-1361",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708396198687_dtHtWbV-0_21sizeoriginal.jpeg&imageViewType=preview"
   },
   "Rachel Rich": {
-    "Counties": [37133, 37061, 37141, 37103, 37049, 37129, 37019, 37107, 37147, 37137, 37031, 37163, 37101]
+    "Counties": [37133, 37061, 37141, 37103, 37049, 37129, 37019, 37107, 37147, 37137, 37031, 37163, 37101],
+    "Brokerage": "Keller Williams Innovate",
+    "Phone": "(910)-391-6005",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708393477214_IMG_2572c.jpg&imageViewType=preview"
   },
   "Traci Dains": {
-    "Counties": [12115]
+    "Counties": [12115],
+    "Brokerage": "LPT Realty",
+    "Phone": "(941)-286-4011",
+    "Profile": "https://forms.zoho.com/onagentinc/report/REOListingPartner_Report/downloadfile?filepath=/REOListingPartner/ImageUpload/1708393054849_traciREheadshot.JPG&imageViewType=preview"
   },
   "Steve Koleno": {
-    "Counties": [17031, 17043, 17089, 17037, 17201, 17197, 17097, 17111, 17007]
+    "Counties": [17031, 17043, 17089, 17037, 17201, 17197, 17097, 17111, 17007],
+    "Brokerage": "Exit Strategy Realty",
+    "Phone": "(630)-405-8314"
   },
   "Coshari Roberta": {
-    "Counties": [12031, 12109, 12089]
+    "Counties": [12031, 12109, 12089],
+    "Brokerage": "",
+    "Phone": ""
   }
 }
