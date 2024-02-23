@@ -5,11 +5,8 @@
   "Frank Duran": {
     "Counties": 48029
   },
-  "Hollie Priest": {
-    "Counties": null
-  },
   "Idly Etienne": {
-    "Counties": 13121
+    "Counties": [13121, 13135, 13067, 13113, 13117, 13057]
   },
   "Deborah Halprin": {
     "Counties": [12011, 12086, 12099]
