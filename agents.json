@@ -1,0 +1,29 @@
+{
+  "Jean Etienne": {
+    "Counties": 12011
+  },
+  "Frank Duran": {
+    "Counties": 48029
+  },
+  "Hollie Priest": {
+    "Counties": null
+  },
+  "Idly Etienne": {
+    "Counties": 13121
+  },
+  "Deborah Halprin": {
+    "Counties": [12011, 12086, 12099]
+  },
+  "Laura Halprin": {
+    "Counties": [12103, 12057, 12081, 12115, 12101]
+  },
+  "Taylor Dalton": {
+    "Counties": 12071
+  },
+  "Rachel Rich": {
+    "Counties": [37133, 37061, 37141, 37103, 37049, 37129, 37019, 37107, 37147, 37137, 37031, 37163, 37101]
+  },
+  "Traci Dains": {
+    "Counties": 12115
+  }
+}
