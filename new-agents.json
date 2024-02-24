@@ -1,0 +1,38 @@
+{
+    "Steve Koleno": {
+        "Brokerage": "Exit Strategy Realty",
+        "Phone": "(555)-777-8888",
+        "Profile": "https://example.com/multiservice_profile.jpg",
+        "AgentOfDisruption": true,
+        "Services": {
+            "Listing": {
+                "Full Service": [17031,17043,17088,17037,17201,17197,17097,17111,17007],
+                "Virtual Service": ["MRED"],
+                "Limited Service": ["MRED", "RMLS Alliance MLS"]
+            },
+            "Buying": {
+                "Full Service": [17031,17043,17088,17037,17201,17197,17097,17111,17007],
+                "Rebate": ["MRED"],
+                "Cash Buyer": ["MRED"]
+            }
+        }
+    },
+    "Idly Etienne": {
+        "Brokerage": "Exit Team Realty",
+        "Phone": "(555)-777-8888",
+        "Profile": "https://example.com/multiservice_profile.jpg",
+        "AgentOfDisruption": true,
+        "Services": {
+            "Listing": {
+                "Full Service": [13089, 13217, 13247, 13063, 13113, 13255, 13151, 13121],
+                "Virtual Service": ["FMLS"],
+                "Limited Service": ["FMLS"]
+            },
+            "Buying": {
+                "Full Service": [13089, 13217, 13247, 13063, 13113, 13255, 13151, 13121],
+                "Rebate": ["FMLS"],
+                "Cash Buyer": ["FMLS"]
+            }
+        }
+    }
+}
